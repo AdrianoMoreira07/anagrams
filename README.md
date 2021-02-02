@@ -1,4 +1,4 @@
-# anagrams
+# Anagrams
 
 This is a simple bored-afternoon project which can find 
 name anagrams for your name or word. 
